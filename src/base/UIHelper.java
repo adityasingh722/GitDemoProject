@@ -14,5 +14,9 @@ public class UIHelper {
 	public static void method2() {
 		System.out.println("This is method 2");
 	}
+	
+	public static void method3() {
+		System.out.println("This is method 3");
+	}
 
 }
