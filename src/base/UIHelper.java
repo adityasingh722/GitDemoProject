@@ -1,0 +1,14 @@
+package base;
+
+public class UIHelper {
+
+	public static void main(String[] args) {
+		
+          method1();
+	}
+	
+	public static void method1() {
+		System.out.println("This is method 1");
+	}
+
+}
